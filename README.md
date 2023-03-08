@@ -15,8 +15,14 @@ Mainly a private developer, I'll be using this profile for tracking the majority
 | DevOps     | ChicoState/PantryNode#35 | Enabled build step for all PRs.            | 
 | CodeReview | ChicoState/PantryNode#40 | Enabling linter for all PRs.               |
 | CodeReview | ChicoState/PantryNode#41 | Enabling build step on all pushes to Main. |
+| CodeReview | ChicoState/PantryNode#43 | Containerizing Node App.                   |
 | CodeReview | ChicoState/PantryNode#44 | Adding build badge to README.              |
 
 ### Timeline
 
-* Sprint #1 - March 2, 2023 - ChicoState/PantryNode#35 
+* Sprint #1 - Started Feb 27th, 2023
+  - ChicoState/PantryNode#35 
+  - ChicoState/PantryNode#40 
+  - ChicoState/PantryNode#41 
+  - ChicoState/PantryNode#43 
+  - ChicoState/PantryNode#44 
