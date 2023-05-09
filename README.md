@@ -7,6 +7,8 @@ Mainly a private developer, I'll be using this profile for tracking the majority
 ### Highlights
 
 * Coordinated group of 6 around a DevOps task in the first week of the first sprint. ChicoState/PantryNode#19
+* Coordinated with leaders from Frontend and Backend team to build the first proof-of-concept that bridged the frontend code with the backend code. I wrote the actual connecting code. ChicoState/PantryNode#101
+* Added one of the Food Expiration backend API endpoints that queries old transactions for expired food. ChicoState/PantryNode#173
 
 ### PantryNode
 
@@ -39,7 +41,25 @@ Mainly a private developer, I'll be using this profile for tracking the majority
   - BL - ChicoState/PantryNode#61
   - BL - ChicoState/PantryNode#62
  * Sprint #2 - Started Mar 21th, 2023
-   - DS - ChicoState/PantryNode#25
+  - DS - ChicoState/PantryNode#25
+  - CR - ChicoState/PantryNode#23
+  - CR - ChicoState/PantryNode#100
+ * Sprint #3 - Started Apr 4th, 2023
+  - CR - ChicoState/PantryNode#101
+  - CR - ChicoState/PantryNode#103
+  - CR - ChicoState/PantryNode#112
+  - BL - ChicoState/PantryNode#118
+  - BL - ChicoState/PantryNode#119
+  - CR - ChicoState/PantryNode#127
+  - BL - ChicoState/PantryNode#160
+  - PR - ChicoState/PantryNode#163
+ * Sprint #4 - Started Apr 18th, 2023
+  - CR - ChicoState/PantryNode#122
+  - CR - ChicoState/PantryNode#132
+  - PR - ChicoState/PantryNode#167
+  - PR - ChicoState/PantryNode#172
+  - PR - ChicoState/PantryNode#173
+  - BL - ChicoState/PantryNode#200
 
 **Key:**
 
