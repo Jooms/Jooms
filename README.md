@@ -2,6 +2,11 @@
 
 Mainly a private developer, I'll be using this profile for tracking the majority of my public interactions. 
 
+
+
+
+# For CSCI-630 at Chico State
+
 ## Contributions 
 
 ### Highlights
